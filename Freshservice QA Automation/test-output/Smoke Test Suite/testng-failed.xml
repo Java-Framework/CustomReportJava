@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Smoke Test Suite]" parallel="tests">
+  <parameter name="os" value="windows"/>
+  <parameter name="os_version" value="7"/>
+  <parameter name="browser" value="firefox"/>
+  <parameter name="browser_version" value="32.0"/>
+  <parameter name="expected_text" value="Hello There!"/>
+  <parameter name="account" value="https://chan.freshservice.com/support/home"/>
+  <listeners>
+    <listener class-name="samplereporter.HTMLReporter"/>
+    <listener class-name="utils.BaseTest"/>
+  </listeners>
+  <test name="Admin sanity Test Suite(failed)" parallel="methods">
+    <parameter name="os" value="windows"/>
+    <parameter name="os_version" value="7"/>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="browser_version" value="32.0"/>
+    <parameter name="expected_text" value="Hello There!"/>
+    <parameter name="account" value="https://chan.freshservice.com/support/home"/>
+    <groups>
+      <run>
+        <include name="Smoke"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="uitests.smoke.chancreated">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- uitests.smoke.chancreated -->
+      <class name="uitests.smoke.SampleTestClass">
+        <methods>
+          <include name="testMethod13" invocation-numbers="0"/>
+          <include name="testMethod12" invocation-numbers="0"/>
+          <include name="testMethod15" invocation-numbers="0"/>
+          <include name="testMethod" invocation-numbers="0"/>
+          <include name="testMethod11" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- uitests.smoke.SampleTestClass -->
+    </classes>
+  </test> <!-- Admin sanity Test Suite(failed) -->
+</suite> <!-- Failed suite [Smoke Test Suite] -->

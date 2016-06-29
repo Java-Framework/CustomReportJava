@@ -1,0 +1,33 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Smoke Test Suite" preserve-order="true" parallel="classes" thread-count="2">
+
+	<listeners>
+		<listener class-name="samplereporter.HTMLReporter" />
+		<listener class-name="utils.BaseTest" />
+	</listeners>
+
+	<test name="Admin sanity Test Suite">
+
+		<parameter name="os" value="windows" />
+		<parameter name="os_version" value="7" />
+		<parameter name="browser" value="firefox" />
+		<parameter name="browser_version" value="32.0" />
+		<parameter name="account" value="https://chan.freshservice.com/support/home" />
+		
+		<parameter name="expected_text" value="Hello There!"/>
+		
+		<groups>
+			<run>
+				<include name="Smoke" />
+			</run>
+		</groups>
+
+		<classes>
+			<class name="uitests.smoke.chancreated" />
+			<class name="uitests.smoke.SampleTestClass" />
+		</classes>
+
+	</test>
+
+</suite>
