@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Smoke Test Suite" duration-ms="25430" started-at="2016-07-01T10:11:16Z" finished-at="2016-07-01T10:11:42Z">
+    <groups>
+      <group name="Advancesmoke">
+        <method signature="SampleTestClass.testMethod(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod" class="uitests.smoke.SampleTestClass"/>
+        <method signature="SampleTestClass.testMethod11(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod11" class="uitests.smoke.SampleTestClass"/>
+        <method signature="SampleTestClass.testMethod12(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod12" class="uitests.smoke.SampleTestClass"/>
+        <method signature="SampleTestClass.testMethod13(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod13" class="uitests.smoke.SampleTestClass"/>
+        <method signature="SampleTestClass.testMethod15(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod15" class="uitests.smoke.SampleTestClass"/>
+        <method signature="chancreated.testMethod1(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod1" class="uitests.smoke.chancreated"/>
+        <method signature="chancreated.testMethod2(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod2" class="uitests.smoke.chancreated"/>
+        <method signature="chancreated.testMethod3(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod3" class="uitests.smoke.chancreated"/>
+        <method signature="chancreated.testMethod4(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod4" class="uitests.smoke.chancreated"/>
+        <method signature="chancreated.testMethod5(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod5" class="uitests.smoke.chancreated"/>
+        <method signature="chancreated.testMethod6(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod6" class="uitests.smoke.chancreated"/>
+      </group> <!-- Advancesmoke -->
+      <group name="ProblemModule">
+        <method signature="SampleTestClass.testMethod(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod" class="uitests.smoke.SampleTestClass"/>
+        <method signature="SampleTestClass.testMethod11(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod11" class="uitests.smoke.SampleTestClass"/>
+        <method signature="SampleTestClass.testMethod12(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod12" class="uitests.smoke.SampleTestClass"/>
+        <method signature="SampleTestClass.testMethod13(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod13" class="uitests.smoke.SampleTestClass"/>
+        <method signature="SampleTestClass.testMethod15(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod15" class="uitests.smoke.SampleTestClass"/>
+      </group> <!-- ProblemModule -->
+      <group name="TicketModule">
+        <method signature="chancreated.testMethod1(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod1" class="uitests.smoke.chancreated"/>
+        <method signature="chancreated.testMethod2(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod2" class="uitests.smoke.chancreated"/>
+        <method signature="chancreated.testMethod3(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod3" class="uitests.smoke.chancreated"/>
+        <method signature="chancreated.testMethod4(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod4" class="uitests.smoke.chancreated"/>
+        <method signature="chancreated.testMethod5(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod5" class="uitests.smoke.chancreated"/>
+        <method signature="chancreated.testMethod6(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod6" class="uitests.smoke.chancreated"/>
+      </group> <!-- TicketModule -->
+      <group name="Smoke">
+        <method signature="SampleTestClass.testMethod(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod" class="uitests.smoke.SampleTestClass"/>
+        <method signature="SampleTestClass.testMethod11(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod11" class="uitests.smoke.SampleTestClass"/>
+        <method signature="SampleTestClass.testMethod12(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod12" class="uitests.smoke.SampleTestClass"/>
+        <method signature="SampleTestClass.testMethod13(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod13" class="uitests.smoke.SampleTestClass"/>
+        <method signature="SampleTestClass.testMethod15(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod15" class="uitests.smoke.SampleTestClass"/>
+        <method signature="chancreated.testMethod1(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod1" class="uitests.smoke.chancreated"/>
+        <method signature="chancreated.testMethod2(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod2" class="uitests.smoke.chancreated"/>
+        <method signature="chancreated.testMethod3(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod3" class="uitests.smoke.chancreated"/>
+        <method signature="chancreated.testMethod4(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod4" class="uitests.smoke.chancreated"/>
+        <method signature="chancreated.testMethod5(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod5" class="uitests.smoke.chancreated"/>
+        <method signature="chancreated.testMethod6(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod6" class="uitests.smoke.chancreated"/>
+      </group> <!-- Smoke -->
+      <group name="Advancesmoke1">
+        <method signature="SampleTestClass.testMethod(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod" class="uitests.smoke.SampleTestClass"/>
+        <method signature="SampleTestClass.testMethod11(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod11" class="uitests.smoke.SampleTestClass"/>
+        <method signature="SampleTestClass.testMethod12(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod12" class="uitests.smoke.SampleTestClass"/>
+        <method signature="SampleTestClass.testMethod13(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod13" class="uitests.smoke.SampleTestClass"/>
+        <method signature="SampleTestClass.testMethod15(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod15" class="uitests.smoke.SampleTestClass"/>
+      </group> <!-- Advancesmoke1 -->
+    </groups>
+    <test name="Admin sanity Test Suite" duration-ms="25430" started-at="2016-07-01T10:11:16Z" finished-at="2016-07-01T10:11:42Z">
+      <class name="uitests.smoke.chancreated">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="setUp" is-config="true" duration-ms="25004" started-at="2016-07-01T15:41:16Z" finished-at="2016-07-01T15:41:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[32.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[https://chan.freshservice.com/support/home]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testMethod1(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod1" duration-ms="49" started-at="2016-07-01T15:41:41Z" finished-at="2016-07-01T15:41:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hello There!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod1 -->
+        <test-method status="PASS" signature="testMethod2(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod2" duration-ms="46" started-at="2016-07-01T15:41:41Z" finished-at="2016-07-01T15:41:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hello There!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod2 -->
+        <test-method status="PASS" signature="testMethod3(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod3" duration-ms="49" started-at="2016-07-01T15:41:41Z" finished-at="2016-07-01T15:41:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hello There!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod3 -->
+        <test-method status="PASS" signature="testMethod4(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod4" duration-ms="42" started-at="2016-07-01T15:41:41Z" finished-at="2016-07-01T15:41:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hello There!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod4 -->
+        <test-method status="PASS" signature="testMethod5(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod5" duration-ms="46" started-at="2016-07-01T15:41:41Z" finished-at="2016-07-01T15:41:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hello There!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod5 -->
+        <test-method status="PASS" signature="testMethod6(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod6" duration-ms="35" started-at="2016-07-01T15:41:41Z" finished-at="2016-07-01T15:41:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hello There!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod6 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="140" started-at="2016-07-01T15:41:41Z" finished-at="2016-07-01T15:41:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- uitests.smoke.chancreated -->
+      <class name="uitests.smoke.SampleTestClass">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="setUp" is-config="true" duration-ms="24743" started-at="2016-07-01T15:41:16Z" finished-at="2016-07-01T15:41:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[32.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[https://chan.freshservice.com/support/home]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testMethod(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod" duration-ms="37" started-at="2016-07-01T15:41:41Z" finished-at="2016-07-01T15:41:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hello There!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method status="PASS" signature="testMethod11(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod11" duration-ms="45" started-at="2016-07-01T15:41:41Z" finished-at="2016-07-01T15:41:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hello There!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod11 -->
+        <test-method status="PASS" signature="testMethod12(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod12" duration-ms="42" started-at="2016-07-01T15:41:41Z" finished-at="2016-07-01T15:41:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hello There!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod12 -->
+        <test-method status="PASS" signature="testMethod13(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod13" duration-ms="43" started-at="2016-07-01T15:41:41Z" finished-at="2016-07-01T15:41:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hello There!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod13 -->
+        <test-method status="PASS" signature="testMethod15(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod15" duration-ms="44" started-at="2016-07-01T15:41:41Z" finished-at="2016-07-01T15:41:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hello There!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod15 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="174" started-at="2016-07-01T15:41:41Z" finished-at="2016-07-01T15:41:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- uitests.smoke.SampleTestClass -->
+    </test> <!-- Admin sanity Test Suite -->
+  </suite> <!-- Smoke Test Suite -->
+</testng-results>
