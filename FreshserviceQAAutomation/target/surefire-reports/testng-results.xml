@@ -2,7 +2,7 @@
 <testng-results skipped="0" failed="0" total="11" passed="11">
   <reporter-output>
   </reporter-output>
-  <suite name="Smoke Test Suite" duration-ms="25430" started-at="2016-07-01T10:11:16Z" finished-at="2016-07-01T10:11:42Z">
+  <suite name="Smoke Test Suite" duration-ms="37548" started-at="2016-07-01T10:50:36Z" finished-at="2016-07-01T10:51:13Z">
     <groups>
       <group name="Advancesmoke">
         <method signature="SampleTestClass.testMethod(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod" class="uitests.smoke.SampleTestClass"/>
@@ -53,9 +53,9 @@
         <method signature="SampleTestClass.testMethod15(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod15" class="uitests.smoke.SampleTestClass"/>
       </group> <!-- Advancesmoke1 -->
     </groups>
-    <test name="Admin sanity Test Suite" duration-ms="25430" started-at="2016-07-01T10:11:16Z" finished-at="2016-07-01T10:11:42Z">
+    <test name="Admin sanity Test Suite" duration-ms="37548" started-at="2016-07-01T10:50:36Z" finished-at="2016-07-01T10:51:13Z">
       <class name="uitests.smoke.chancreated">
-        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="setUp" is-config="true" duration-ms="25004" started-at="2016-07-01T15:41:16Z" finished-at="2016-07-01T15:41:41Z">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="setUp" is-config="true" duration-ms="37188" started-at="2016-07-01T16:20:36Z" finished-at="2016-07-01T16:21:13Z">
           <params>
             <param index="0">
               <value>
@@ -86,7 +86,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testMethod1(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod1" duration-ms="49" started-at="2016-07-01T15:41:41Z" finished-at="2016-07-01T15:41:41Z">
+        <test-method status="PASS" signature="testMethod1(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod1" duration-ms="35" started-at="2016-07-01T16:21:13Z" finished-at="2016-07-01T16:21:13Z">
           <params>
             <param index="0">
               <value>
@@ -97,7 +97,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod1 -->
-        <test-method status="PASS" signature="testMethod2(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod2" duration-ms="46" started-at="2016-07-01T15:41:41Z" finished-at="2016-07-01T15:41:41Z">
+        <test-method status="PASS" signature="testMethod2(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod2" duration-ms="53" started-at="2016-07-01T16:21:13Z" finished-at="2016-07-01T16:21:13Z">
           <params>
             <param index="0">
               <value>
@@ -108,7 +108,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod2 -->
-        <test-method status="PASS" signature="testMethod3(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod3" duration-ms="49" started-at="2016-07-01T15:41:41Z" finished-at="2016-07-01T15:41:41Z">
+        <test-method status="PASS" signature="testMethod3(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod3" duration-ms="42" started-at="2016-07-01T16:21:13Z" finished-at="2016-07-01T16:21:13Z">
           <params>
             <param index="0">
               <value>
@@ -119,7 +119,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod3 -->
-        <test-method status="PASS" signature="testMethod4(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod4" duration-ms="42" started-at="2016-07-01T15:41:41Z" finished-at="2016-07-01T15:41:41Z">
+        <test-method status="PASS" signature="testMethod4(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod4" duration-ms="31" started-at="2016-07-01T16:21:13Z" finished-at="2016-07-01T16:21:13Z">
           <params>
             <param index="0">
               <value>
@@ -130,7 +130,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod4 -->
-        <test-method status="PASS" signature="testMethod5(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod5" duration-ms="46" started-at="2016-07-01T15:41:41Z" finished-at="2016-07-01T15:41:41Z">
+        <test-method status="PASS" signature="testMethod5(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod5" duration-ms="31" started-at="2016-07-01T16:21:13Z" finished-at="2016-07-01T16:21:13Z">
           <params>
             <param index="0">
               <value>
@@ -141,7 +141,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod5 -->
-        <test-method status="PASS" signature="testMethod6(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod6" duration-ms="35" started-at="2016-07-01T15:41:41Z" finished-at="2016-07-01T15:41:41Z">
+        <test-method status="PASS" signature="testMethod6(java.lang.String)[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="testMethod6" duration-ms="34" started-at="2016-07-01T16:21:13Z" finished-at="2016-07-01T16:21:13Z">
           <params>
             <param index="0">
               <value>
@@ -152,13 +152,13 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod6 -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="140" started-at="2016-07-01T15:41:41Z" finished-at="2016-07-01T15:41:42Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:[chancreated passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="117" started-at="2016-07-01T16:21:13Z" finished-at="2016-07-01T16:21:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- uitests.smoke.chancreated -->
       <class name="uitests.smoke.SampleTestClass">
-        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="setUp" is-config="true" duration-ms="24743" started-at="2016-07-01T15:41:16Z" finished-at="2016-07-01T15:41:41Z">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="setUp" is-config="true" duration-ms="33216" started-at="2016-07-01T16:20:36Z" finished-at="2016-07-01T16:21:09Z">
           <params>
             <param index="0">
               <value>
@@ -189,7 +189,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testMethod(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod" duration-ms="37" started-at="2016-07-01T15:41:41Z" finished-at="2016-07-01T15:41:41Z">
+        <test-method status="PASS" signature="testMethod(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod" duration-ms="76" started-at="2016-07-01T16:21:09Z" finished-at="2016-07-01T16:21:09Z">
           <params>
             <param index="0">
               <value>
@@ -200,7 +200,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod -->
-        <test-method status="PASS" signature="testMethod11(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod11" duration-ms="45" started-at="2016-07-01T15:41:41Z" finished-at="2016-07-01T15:41:41Z">
+        <test-method status="PASS" signature="testMethod11(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod11" duration-ms="42" started-at="2016-07-01T16:21:09Z" finished-at="2016-07-01T16:21:09Z">
           <params>
             <param index="0">
               <value>
@@ -211,7 +211,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod11 -->
-        <test-method status="PASS" signature="testMethod12(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod12" duration-ms="42" started-at="2016-07-01T15:41:41Z" finished-at="2016-07-01T15:41:41Z">
+        <test-method status="PASS" signature="testMethod12(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod12" duration-ms="52" started-at="2016-07-01T16:21:09Z" finished-at="2016-07-01T16:21:09Z">
           <params>
             <param index="0">
               <value>
@@ -222,7 +222,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod12 -->
-        <test-method status="PASS" signature="testMethod13(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod13" duration-ms="43" started-at="2016-07-01T15:41:41Z" finished-at="2016-07-01T15:41:41Z">
+        <test-method status="PASS" signature="testMethod13(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod13" duration-ms="55" started-at="2016-07-01T16:21:09Z" finished-at="2016-07-01T16:21:09Z">
           <params>
             <param index="0">
               <value>
@@ -233,7 +233,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod13 -->
-        <test-method status="PASS" signature="testMethod15(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod15" duration-ms="44" started-at="2016-07-01T15:41:41Z" finished-at="2016-07-01T15:41:41Z">
+        <test-method status="PASS" signature="testMethod15(java.lang.String)[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="testMethod15" duration-ms="46" started-at="2016-07-01T16:21:09Z" finished-at="2016-07-01T16:21:09Z">
           <params>
             <param index="0">
               <value>
@@ -244,7 +244,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod15 -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="174" started-at="2016-07-01T15:41:41Z" finished-at="2016-07-01T15:41:41Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:[SampleTestClass passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="94" started-at="2016-07-01T16:21:09Z" finished-at="2016-07-01T16:21:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="11" failures="0" name="TestSuite" time="26.474" errors="0" skipped="0">
+<testsuite tests="11" failures="0" name="TestSuite" time="38.973" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib"/>
@@ -23,7 +23,7 @@
     <property name="basedir" value="/Users/chan/git/CustomReportJava/Freshservice QA Automation"/>
     <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/endorsed"/>
     <property name="os.arch" value="x86_64"/>
-    <property name="surefire.real.class.path" value="/Users/chan/git/CustomReportJava/Freshservice QA Automation/target/surefire/surefirebooter8493871416190282656.jar"/>
+    <property name="surefire.real.class.path" value="/Users/chan/git/CustomReportJava/Freshservice QA Automation/target/surefire/surefirebooter1327251632100140925.jar"/>
     <property name="java.io.tmpdir" value="/var/folders/83/dt471b3s0sg0vtyf1_kqxl3r0000gp/T/"/>
     <property name="line.separator" value="
 "/>
@@ -49,7 +49,7 @@
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre"/>
-    <property name="sun.java.command" value="/Users/chan/git/CustomReportJava/Freshservice QA Automation/target/surefire/surefirebooter8493871416190282656.jar /Users/chan/git/CustomReportJava/Freshservice QA Automation/target/surefire/surefire921341909173214197tmp /Users/chan/git/CustomReportJava/Freshservice QA Automation/target/surefire/surefire4723926513396996775tmp"/>
+    <property name="sun.java.command" value="/Users/chan/git/CustomReportJava/Freshservice QA Automation/target/surefire/surefirebooter1327251632100140925.jar /Users/chan/git/CustomReportJava/Freshservice QA Automation/target/surefire/surefire8089132547424720122tmp /Users/chan/git/CustomReportJava/Freshservice QA Automation/target/surefire/surefire4017972848950577608tmp"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="en"/>
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
@@ -67,15 +67,15 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="uitests.smoke.SampleTestClass" name="testMethod on [SampleTestClass passed=0 failed=0 skipped=0]" time="0.037"/>
-  <testcase classname="uitests.smoke.SampleTestClass" name="testMethod11 on [SampleTestClass passed=0 failed=0 skipped=0]" time="0.046"/>
-  <testcase classname="uitests.smoke.SampleTestClass" name="testMethod12 on [SampleTestClass passed=0 failed=0 skipped=0]" time="0.042"/>
-  <testcase classname="uitests.smoke.SampleTestClass" name="testMethod13 on [SampleTestClass passed=0 failed=0 skipped=0]" time="0.043"/>
-  <testcase classname="uitests.smoke.SampleTestClass" name="testMethod15 on [SampleTestClass passed=0 failed=0 skipped=0]" time="0.044"/>
-  <testcase classname="uitests.smoke.chancreated" name="testMethod1 on [chancreated passed=0 failed=0 skipped=0]" time="0.049"/>
-  <testcase classname="uitests.smoke.chancreated" name="testMethod2 on [chancreated passed=0 failed=0 skipped=0]" time="0.046"/>
-  <testcase classname="uitests.smoke.chancreated" name="testMethod3 on [chancreated passed=0 failed=0 skipped=0]" time="0.049"/>
-  <testcase classname="uitests.smoke.chancreated" name="testMethod4 on [chancreated passed=0 failed=0 skipped=0]" time="0.042"/>
-  <testcase classname="uitests.smoke.chancreated" name="testMethod5 on [chancreated passed=0 failed=0 skipped=0]" time="0.046"/>
-  <testcase classname="uitests.smoke.chancreated" name="testMethod6 on [chancreated passed=0 failed=0 skipped=0]" time="0.035"/>
+  <testcase classname="uitests.smoke.SampleTestClass" name="testMethod on [SampleTestClass passed=0 failed=0 skipped=0]" time="0.076"/>
+  <testcase classname="uitests.smoke.SampleTestClass" name="testMethod11 on [SampleTestClass passed=0 failed=0 skipped=0]" time="0.042"/>
+  <testcase classname="uitests.smoke.SampleTestClass" name="testMethod12 on [SampleTestClass passed=0 failed=0 skipped=0]" time="0.051"/>
+  <testcase classname="uitests.smoke.SampleTestClass" name="testMethod13 on [SampleTestClass passed=0 failed=0 skipped=0]" time="0.055"/>
+  <testcase classname="uitests.smoke.SampleTestClass" name="testMethod15 on [SampleTestClass passed=0 failed=0 skipped=0]" time="0.046"/>
+  <testcase classname="uitests.smoke.chancreated" name="testMethod1 on [chancreated passed=0 failed=0 skipped=0]" time="0.035"/>
+  <testcase classname="uitests.smoke.chancreated" name="testMethod2 on [chancreated passed=0 failed=0 skipped=0]" time="0.053"/>
+  <testcase classname="uitests.smoke.chancreated" name="testMethod3 on [chancreated passed=0 failed=0 skipped=0]" time="0.042"/>
+  <testcase classname="uitests.smoke.chancreated" name="testMethod4 on [chancreated passed=0 failed=0 skipped=0]" time="0.031"/>
+  <testcase classname="uitests.smoke.chancreated" name="testMethod5 on [chancreated passed=0 failed=0 skipped=0]" time="0.031"/>
+  <testcase classname="uitests.smoke.chancreated" name="testMethod6 on [chancreated passed=0 failed=0 skipped=0]" time="0.034"/>
 </testsuite>
